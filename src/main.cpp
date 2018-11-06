@@ -21,7 +21,7 @@
 // TLACITKO přepínání kdo bude poslouchat = D3
 // TLAČITKO ZVONEK = D6
 
-//#define MQTT_SERVER      "10.0.1.43"     // TF doma
+//#define MQTT_SERVER      "10.0.1.43"     //TF doma 
 #define MQTT_SERVER      "192.168.2.39"   //fcc ps
 #define MQTT_SERVERPORT  1883
 #define nazev           " Sklad"  // role tohoto zařízení
