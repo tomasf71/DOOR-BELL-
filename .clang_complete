@@ -1,0 +1,55 @@
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/tools/sdk/libc/xtensa-lx106-elf/include
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/cores/esp8266
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/tools/sdk/lwip/include
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/variants/d1_mini
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/lib/Adafruit-GFX-Library-master
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/lib/Adafruit_SSD1306-esp8266-64x48
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/.piolibdeps/Adafruit MQTT Library_ID1092
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/.piolibdeps/WifiManager_ID567
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFi/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/DNSServer/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WebServer/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/SPI
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/Wire
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/.piolibdeps/Adafruit SSD1306 Wemos Mini OLED_ID2104
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ArduinoOTA
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/EEPROM
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266AVRISP/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPClient/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266HTTPUpdateServer/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266LLMNR
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266NetBIOS
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266SSDP
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266WiFiMesh/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266httpUpdate/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/ESP8266mDNS
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/Ethernet/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/GDBStub/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/Hash/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/SD/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/SPISlave/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/Servo/src
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/SoftwareSerial
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/TFT_Touch_Shield_V2
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/Ticker
+-I/Users/tomasfriml/.platformio/packages/framework-arduinoespressif8266/libraries/esp8266/src
+-I/Users/tomasfriml/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include
+-I/Users/tomasfriml/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include/c++/4.8.2
+-I/Users/tomasfriml/.platformio/packages/toolchain-xtensa/xtensa-lx106-elf/include/c++/4.8.2/xtensa-lx106-elf
+-I/Users/tomasfriml/.platformio/packages/toolchain-xtensa/lib/gcc/xtensa-lx106-elf/4.8.2/include
+-I/Users/tomasfriml/.platformio/packages/toolchain-xtensa/lib/gcc/xtensa-lx106-elf/4.8.2/include-fixed
+-I/Users/tomasfriml/.platformio/packages/tool-unity
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/include
+-I/Users/tomasfriml/Documents/PlatformIO/Projects/DOOR BELL/src
+-DPLATFORMIO=30602
+-DESP8266
+-DARDUINO_ARCH_ESP8266
+-DESP8266_WEMOS_D1MINI
+-DF_CPU=80000000L
+-D__ets__
+-DICACHE_FLASH
+-DARDUINO=10805
+-DARDUINO_BOARD="PLATFORMIO_D1_MINI"
+-DLWIP_OPEN_SRC
+-DVTABLES_IN_FLASH

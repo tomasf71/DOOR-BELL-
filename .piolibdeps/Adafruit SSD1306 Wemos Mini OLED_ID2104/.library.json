@@ -1,0 +1,55 @@
+{
+    "name": "Adafruit SSD1306 Wemos Mini OLED", 
+    "version": "1.1.2", 
+    "keywords": [
+        "display"
+    ], 
+    "description": "SSD1306 oled driver library for Wemos D1 Mini OLED shield", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "intel_arc32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "authors": [
+        {
+            "email": null, 
+            "url": null, 
+            "maintainer": false, 
+            "name": "Adafruit + mcauser"
+        }, 
+        {
+            "email": "stb@lassitu.de", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Stefan Bethke"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/stblassitude/Adafruit_SSD1306_Wemos_OLED"
+    }, 
+    "homepage": "https://github.com/stblassitude/Adafruit_SSD1306_Wemos_OLED.git", 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 2104
+}
